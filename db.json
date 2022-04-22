@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "firstName": "سمیرا",
+      "lastName": "نصیری",
+      "email": "samiramis.nasiri79@gmail.com",
+      "password": "12345678",
+      "province": "تهران",
+      "city": "تهران",
+      "id": 1
+    },
+    {
+      "firstName": "سمیرا",
+      "lastName": "نصیری",
+      "email": "samiramis.nasiri79@gmail.com",
+      "password": "12345678",
+      "province": "تهران",
+      "city": "تهران",
+      "id": 2
+    },
+    {
+      "firstName": "sds",
+      "lastName": "dss",
+      "email": "samiramis.nasiri79@gmail.com",
+      "password": "sdssdsdsds",
+      "province": "آذربايجان غربي",
+      "city": "اشنويه",
+      "id": 3
+    },
+    {
+      "firstName": "sdf",
+      "lastName": "sdf",
+      "email": "samiramis.nasiri79@gmail.com",
+      "password": "dfdfdfaer34",
+      "province": "آذربايجان غربي",
+      "city": "بازرگان",
+      "id": 4
+    },
+    {
+      "firstName": "masoume",
+      "lastName": "naderi",
+      "email": "samiramis.nasiri79@gmail.com",
+      "password": "یfasdf23423",
+      "province": "خراسان شمالي",
+      "city": "اسفراين",
+      "id": 5
+    }
+  ]
+}

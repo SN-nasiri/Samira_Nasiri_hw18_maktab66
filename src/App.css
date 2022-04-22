@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400&display=swap');
+*{
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.signin-form-containter{
+  width: 35vw;
+  background: rgb(32, 34, 44);
+  border: 1.5rem solid gray;
+  padding: 20px;
+  margin: 5rem auto;
+}
+.general-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form-input{
+  border: 1px gray solid;
+  border-radius: 0;
+  background: transparent;
+  width: 89%;
+  color: white;
+  padding: 10px;
+  margin: 8px 10px;
+  font-size: 15px;
+}
+.form-select {
+  border: 1px gray solid;
+  border-radius: 0;
+  background: transparent;
+  width: 92%;
+  color: white;
+  padding: 10px;
+  margin: 8px 10px;
+  font-size: 15px;
+}
+.name-container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: normal;
+  width: 96%;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 96%;
+}
+.my-btn{
+  border: none;
+  width: 98%;
+  text-align: center;
+  padding: 10px;
+  background: #198754;
+  color: aliceblue;
+  font-size: 18px;
+}
+.form-input:focus, .form-input1:focus{
+  background: rgba(1, 1, 1, .2);
+  color: white;
+}
+.email-pass {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 98%;
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+  font-size: 22px;
+}
+.pass-inp{
+  width: 91%;
+}
+.password-input{
+  background: transparent;
+  border: 1px gray solid;
+  border-radius: 0;
+}
+.error{
+  color: red;
+  margin: 0 15px 0 0;
+
+}
+a{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.icon-position {
+  position: relative;
+  width: 100%;
+  margin-right: 7px;
+}
+.icon{
+  position: absolute;
+  color: gray;
+  left: 35px;
+  bottom: 17px;
+  cursor: pointer;
+}
